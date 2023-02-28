@@ -1,2 +1,2 @@
 # vessel-wall-segmentation
-eim project
+medical image processing project
