@@ -1,2 +1,3 @@
-# vessel-wall-segmentation
-medical image processing project
+# Vessel Wall Segmentation using Deep Learning
+
+## Medical Image Processing project
